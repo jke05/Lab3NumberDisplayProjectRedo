@@ -70,4 +70,9 @@ public class NumberDisplay
             value = 0;
         }
     }
+    
+    public void printJoe(){
+        System.out.println(9 + 3 + "cat");
+        System.out.println("cat" + 3 + 9);
+    }
 }
